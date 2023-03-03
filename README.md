@@ -6,9 +6,6 @@
 
 **
 
-
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
-
 ## Description
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://shark-app-y8ysp.ondigitalocean.app">OmTegar </a>
 All 'visual' data can be easily modified by changing the data.json file.
