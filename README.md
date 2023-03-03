@@ -2,7 +2,7 @@
 
 **
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/OmTegar/myapp) is out  
+# 🛎️🛎️ Good news! New & improved [V2](https://github.com/OmTegar/reactjs-template-omtegar) is out  
 
 **
 
